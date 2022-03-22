@@ -37,3 +37,35 @@ Oh yeah. Bugs here are just a huge amount. Imagine all the people on earth (abou
 - 
 - Q - Anything other than Lightrom based and Ultra?
 - A - Yes. There will be an extended release (LightromEXtented?) where there will be a calculator, a camera and similar necessary things.
+
+## All devices that have a chance to get LightROM:
+- cm6 and below - no information yet
+- cm7 - so far only Galaxy S2, but I have a little problem with it
+- cm8 - I would like to, but there is no information yet
+- cm9 - Galaxy S2/S3.
+- cm10 - Galaxy S2/S3, mi4c?, Nexus4?, Galaxy S7390, Lenovo A369i
+- cm11 - Galaxy S2/S3, mi4c?, Nexus4/5/10?, Galaxy S7390, Lenovo A369i
+- cm12 - Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i
+- cm13 - Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i
+- cm14 - Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i (will not be on cm)
+- LinageOS+ - Galaxy S2/S3, mi4c, Nexus4/5/10?, redmi note 9 pro
+The list will probably be replenished as I own devices. Devices for which I have already released a port and sold them, the firmware will not be updated.
+
+I want to myself and most likely I will buy a line of nexus smartphones and will mainly do this mod on them.
+
+
+# Preparation for the Russian language, do not pay attention | Заготовка для русского языка, не обращайте внимание
+## Under construction
+- Все устроиства которые имеют шанс получить LightROM:
+- cm6 и ниже - пока нет информации
+- cm7 - пока что только Galaxy S2, но у меня с ним небольшие проблемы
+- cm8 - Хотелось бы, но пока нет информации
+- cm9 - Galaxy S2/S3.
+- cm10 - Galaxy S2/S3, mi4c?, Nexus4?, Galaxy S7390, Lenovo A369i
+- cm11 - Galaxy S2/S3, mi4c?, Nexus4/5/10?, Galaxy S7390, Lenovo A369i
+- cm12 - Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i
+- cm13 - Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i
+- cm14 - Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i (будет не на cm)
+- LinageOS+ - Galaxy S2/S3, mi4c, Nexus4/5/10?, redmi note 9 pro
+- Список возможно будет пополнятся по мере владения мной устроиств. Устроиства для которых я уже выпустил порт и продал их, прошивка обновлятся не будет.
+Я хочу сам и скорее всего буду покупать линейку сматрфонов nexus и премущественно на них буду делать этот мод. 
