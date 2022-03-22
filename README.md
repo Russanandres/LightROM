@@ -1,5 +1,7 @@
 # Lightrom-hammerhead
 # Only for Nexus 5 hammerhead!!
+I haven't developed or ported any Lightrom before. This is my own project. All matches (including in the rom name) are random. Don't confuse with Adobe Lightroom! **You are on the page with AOSP/CM firmware/rom for phones!**
+ 
 Completely stripped down ROM based on CyanogenMod 11. Almost all applications are cut out. Only the settings, music player, terminal and Titanium Backup remained. In the case of the ULTRA version - only the settings. You can install applications via ADB or terminal (not tested).
 ## Weight
 - Lightrom - 168mb
@@ -56,6 +58,8 @@ I want to myself and most likely I will buy a line of nexus smartphones and will
 
 # Preparation for the Russian language, do not pay attention | Заготовка для русского языка, не обращайте внимание
 ## Under construction
+Я не разрабатывал и не портировал любой Lightrom раньше. Это мой собственный проект. Все совпадения (в том числе в названии) случайны. Не путайте с Adobe Lightroom! Вы находитесь на странице с AOSP/CM прошивкой для телефонов! 
+
 - Все устроиства которые имеют шанс получить LightROM:
 - cm6 и ниже - пока нет информации
 - cm7 - пока что только Galaxy S2, но у меня с ним небольшие проблемы
