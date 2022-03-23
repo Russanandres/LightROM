@@ -8,6 +8,8 @@ Completely stripped down ROM based on CyanogenMod 11. Almost all applications ar
 - Lightrom ULTRA - 162mb
 
 For now
+## Who needs this firmware? Is it for me?
+Most likely no. For people who use youtube, twitter and so on, that is, ordinary people do not need it. If you want an iPod-like music player or just a video player. You don't like a lot of programs installed on your device or you just want multirom firmware to test programs. Then it is most likely for you, but be aware that there are a lot of bugs here.
 ## Other phones
 This firmware at the time of 03/22/22+ **DOES NOT SUIT ANYONE EXCEPT NEXUS 5 HAMMERHEAD!!!!! THE AUTHOR IS NOT RESPONSIBLE FOR A DAMAGED DEVICE!!!!** (although during installation you can hardly brick it, but believe me, it’s better not to try)
 ### Porting?
