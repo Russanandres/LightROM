@@ -54,6 +54,7 @@ Oh yeah. Bugs here are just a huge amount. Imagine all the people on earth (abou
 - 
 - Q - Anything other than Lightrom based and Ultra?
 - A - Yes. There will be an extended release (LightromEXtented?) where there will be a calculator, a camera and similar necessary things.
+- A - As well as the Debug version (LightROM Debug) filled with various debugging features. It will be released of course.
 
 ## All devices that have a chance to get LightROM:
 - cm6 and below - no information yet
@@ -146,6 +147,7 @@ The list will probably be replenished as I own devices. Devices for which I have
 - 
 - Q - Какие нибудь ещё релизы кроме Lightrom base и Ultra?
 - A - Да. Я хочу ещё несколько релизов. Один из них LEX (LightromEXtented?). Там будет камера, календарь, калькулятор и другие нужные вещи.
+- A - А также версия Debug (LightROM Debug) наполненная разными функциями отладки. Она будет выложенна в открытый доступ конечно же.
 
 ## Все устроиства которые имеют шанс получить LightROM:
 | Версия CM      | Устроиство    |
