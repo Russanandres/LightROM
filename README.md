@@ -1,17 +1,17 @@
-# Lightrom-hammerhead
+# LightROM
 # Only for Nexus 5 *hammerhead* and Nexus 4 *mako*!!
 I haven't developed or ported any Lightrom before. This is my own project. All matches (including in the rom name) are random. Don't confuse with Adobe Lightroom! **You are on the page with Android AOSP/CM firmware/rom for phones!**
  
 Completely stripped down ROM based on CyanogenMod 11. Almost all applications are cut out. Only the settings, music player, terminal and Titanium Backup remained. In the case of the ULTRA version - only the settings. You can install applications via ADB or terminal (not tested).
 # Table of contents:
-[Описание на русском языке](https://github.com/Russanandres/Lightrom-hammerhead/edit/main/README.md#lightrom-hammerhead-1)
-Weight
-Who needs it?
-When is the release?
-Supported devices right now.
-Bugs
-Q&A
-Other phones table
+- [Описание на русском языке](https://github.com/Russanandres/LightROM#lightrom-1)
+- [Weight](https://github.com/Russanandres/LightROM#zip-weight-on-last-readme-update)
+- [Who needs it?](https://github.com/Russanandres/LightROM#who-needs-this-firmware-is-it-for-me)
+- [Then is the release?](https://github.com/Russanandres/LightROM#when-is-the-release)
+- [Supported devices right now.](https://github.com/Russanandres/LightROM#supported-devices-right-now)
+- [Bugs](https://github.com/Russanandres/LightROM#bugs)
+- [Q&A](https://github.com/Russanandres/LightROM#qa)
+- [Other phones table](https://github.com/Russanandres/LightROM#all-devices-that-have-a-chance-to-get-lightrom)
 ## Zip weight (*on last readme update*)
 - Lightrom - 168mb
 - Lightrom ULTRA - 162mb
@@ -21,7 +21,7 @@ Other phones table
 - Lightrom ULTRA - 287mb
 
 about 90mb savings!
-## Who needs this firmware? Is it for me?
+## Who needs this rom? Is it for me?
 Most likely no. For people who use youtube, twitter and so on, that is, ordinary people do not need it. If you want an iPod-like music player or just a video player. You don't like a lot of programs installed on your device or you just want multirom rom to test programs. Then it is most likely for you, but be aware that there are a lot of bugs here.
 ## When is the release?
 Honestly, I do not know. Maybe I will delete this repository. Prerelease for Nexus 5 and alpha for Nexus 4 are now ready. As soon as I understand how to properly edit the system resources of APK files on linux, I will release the first release.
@@ -66,25 +66,45 @@ Oh yeah. Bugs here are just a huge amount. Imagine all the people on earth (abou
 - cm13 - Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i
 - cm14 - Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i (will not be on cm)
 - LinageOS+ - Galaxy S2/S3, mi4c, Nexus4/5/10?, redmi note 9 pro
-The list will probably be replenished as I own devices. Devices for which I have already released a port and sold them, the firmware will not be updated.
+The list will probably be replenished as I own devices. Devices for which I have already released a port and sold them, the firmware will not be updated. I want to myself and most likely I will buy a line of nexus smartphones and will mainly do this mod on them.
 
-I want to myself and most likely I will buy a line of nexus smartphones and will mainly do this mod on them.
+| CM version     | Device        |
+| -------------- | ------------- |
+| cm6 and below  | no information yet                                               |
+| cyanogenmod 7  | so far only Galaxy S2, but I have a little problem with it       |
+| cyanogenmod 8  | I would like to, but there is no information yet                 |
+| cyanogenmod 9  | Galaxy S2/S3.                                                    |
+| cyanogenmod 10 | Galaxy S2/S3, mi4c?, Nexus4?, Galaxy S7390, Lenovo A369i         |
+| cyanogenmod 11 | Galaxy S2/S3, mi4c?, Nexus4/5/10?, Galaxy S7390, Lenovo A369i    |
+| cyanogenmod 12 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i                    |
+| cyanogenmod 13 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i                    |
+| cyanogenmod 14 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i (will not be on cm)|
+| LinageOS 14+   | Galaxy S2/S3, mi4c, Nexus4/5/10?, redmi note 9 pro               |
+
+The list will probably be replenished as I own devices. Devices for which I have already released a port and sold them, the firmware will not be updated. I want to myself and most likely I will buy a line of nexus smartphones and will mainly do this mod on them.
 
 
-# Lightrom-hammerhead
+- ***Russian***
+
+- ***description***
+
+- ***below***
+
+
+# LightROM
 # Только для Nexus 5 *hammerhead* и Nexus 4 *mako*!!
 **Я не разрабатывал и не портировал любой Lightrom раньше. Это мой собственный проект. Все совпадения (в том числе в названии) случайны. Не путайте с Adobe Lightroom! Вы находитесь на странице с Android AOSP/CM прошивкой для телефонов!** 
 
 Полностью урезанный ROM на базе CyanogenMod 11. Вырезаны почти все приложения. Остались только настройки, музыкальный плеер, терминал и Titanium Backup. В случае версии ULTRA - только настройки. Можно устанавливать приложения через ADB или терминал (не проверял). 
 # Оглавление:
-[English readme](https://github.com/Russanandres/Lightrom-hammerhead/edit/main/README.md#lightrom-hammerhead-1)
-Вес
-Кому это надо?
-Когда релиз?
-Поддерживаемые сейчас устроиства
-Баги, дюпы, глитчи
-Вопрос-Ответ
-Таблица будущих поддерживаемых устроиств.
+- [English readme](https://github.com/Russanandres/Lightrom-hammerhead/edit/main/README.md#lightrom-hammerhead-1)
+- [Вес](https://github.com/Russanandres/LightROM#%D0%B2%D0%B5%D1%81-%D0%B0%D1%80%D1%85%D0%B8%D0%B2%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B5%D0%B5-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-readme)
+- [Кому это надо?](https://github.com/Russanandres/LightROM#%D0%BA%D0%BE%D0%BC%D1%83-%D0%BD%D1%83%D0%B6%D0%BD%D0%B0-%D1%8D%D1%82%D0%B0-%D0%BF%D1%80%D0%BE%D1%88%D0%B8%D0%B2%D0%BA%D0%B0-%D0%BE%D0%BD%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B5%D0%BD%D1%8F)
+- [Когда релиз?](https://github.com/Russanandres/LightROM#%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0-%D1%80%D0%B5%D0%BB%D0%B8%D0%B7)
+- [Поддерживаемые сейчас устроиства](https://github.com/Russanandres/LightROM#%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%D1%8B%D0%B5-%D1%81%D0%B5%D0%B9%D1%87%D0%B0%D1%81-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%81%D1%82%D0%B2%D0%B0)
+- [Баги, дюпы, глитчи](https://github.com/Russanandres/LightROM#%D0%B1%D0%B0%D0%B3%D0%B8-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B-%D0%BD%D0%B5%D0%B4%D0%BE%D1%87%D1%91%D1%82%D1%8B)
+- [Вопрос-Ответ](https://github.com/Russanandres/LightROM#%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81-%D0%BE%D1%82%D0%B2%D0%B5%D1%82)
+- [Таблица будущих поддерживаемых устроиств.](https://github.com/Russanandres/LightROM#%D0%B2%D1%81%D0%B5-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%81%D1%82%D0%B2%D0%B0-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5-%D0%B8%D0%BC%D0%B5%D1%8E%D1%82-%D1%88%D0%B0%D0%BD%D1%81-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-lightrom)
 ## Вес архива (*на последнее обновление readme*)
 - Lightrom - 168mb
 - Lightrom ULTRA - 162mb
@@ -128,15 +148,18 @@ I want to myself and most likely I will buy a line of nexus smartphones and will
 - A - Да. Я хочу ещё несколько релизов. Один из них LEX (LightromEXtented?). Там будет камера, календарь, калькулятор и другие нужные вещи.
 
 ## Все устроиства которые имеют шанс получить LightROM:
-- cm6 и ниже - пока нет информации
-- cm7 - пока что только Galaxy S2, но у меня с ним небольшие проблемы
-- cm8 - Хотелось бы, но пока нет информации.
-- cm9 - Galaxy S2/S3.
-- cm10 - Galaxy S2/S3, mi4c?, Nexus4?, Galaxy S7390, Lenovo A369i
-- cm11 - Galaxy S2/S3, mi4c?, Nexus4/5/10?, Galaxy S7390, Lenovo A369i
-- cm12 - Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i
-- cm13 - Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i
-- cm14 - Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i (будет не на cm)
-- LinageOS+ - Galaxy S2/S3, mi4c, Nexus4/5/10?, redmi note 9 pro
-- Список возможно будет пополнятся по мере владения мной устроиств. Устроиства для которых я уже выпустил порт и продал их, прошивка обновлятся не будет.
+| Версия CM      | Устроиство    |
+| -------------- | ------------- |
+| cm6 и ниже     | пока нет информации  |
+| cyanogenmod 7  | пока что только Galaxy S2, но у меня с ним небольшие проблемы   |
+| cyanogenmod 8  | Хотелось бы, но пока нет информации.                            |
+| cyanogenmod 9  | Galaxy S2/S3.                                                   |
+| cyanogenmod 10 | Galaxy S2/S3, mi4c?, Nexus4?, Galaxy S7390, Lenovo A369i        |
+| cyanogenmod 11 | Galaxy S2/S3, mi4c?, Nexus4/5/10?, Galaxy S7390, Lenovo A369i   |
+| cyanogenmod 12 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i                   |
+| cyanogenmod 13 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i                   |
+| cyanogenmod 14 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i (будет не на cm)  |
+| LinageOS 14+   | Galaxy S2/S3, mi4c, Nexus4/5/10?, redmi note 9 pro              |
+
+Список возможно будет пополнятся по мере владения мной устроиств. Устроиства для которых я уже выпустил порт и продал их, прошивка обновлятся не будет.
 Я хочу сам и скорее всего буду покупать линейку сматрфонов nexus и премущественно на них буду делать этот мод, и там соответвественно будет и LinageOS и cm12/13/14+
