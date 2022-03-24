@@ -15,7 +15,7 @@ Completely stripped down ROM based on CyanogenMod 11. Almost all applications ar
 ## Zip weight (*on last readme update*)
 - Lightrom - 168mb
 - Lightrom ULTRA - 162mb
-### Weight system folder in zip
+### Weight /system folder in zip
 - Cyanogenmod 11 - 380mb
 - Lightrom - 293mb
 - Lightrom ULTRA - 287mb
@@ -108,7 +108,7 @@ The list will probably be replenished as I own devices. Devices for which I have
 ## Вес архива (*на последнее обновление readme*)
 - Lightrom - 168mb
 - Lightrom ULTRA - 162mb
-### Вес папки /system в врхиве
+### Вес папки /system в архиве
 - Cyanogenmod 11 - 380mb
 - Lightrom - 293mb
 - Lightrom ULTRA - 287mb
