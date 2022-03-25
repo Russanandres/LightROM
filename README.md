@@ -58,26 +58,14 @@ Oh yeah. Bugs here are just a huge amount. Imagine all the people on earth (abou
 - A - As well as the Debug version (LightROM Debug) filled with various debugging features. It will be released of course.
 
 ## All devices that have a chance to get LightROM:
-- cm6 and below - no information yet
-- cm7 - so far only Galaxy S2, but I have a little problem with it
-- cm8 - I would like to, but there is no information yet
-- cm9 - Galaxy S2/S3.
-- cm10 - Galaxy S2/S3, mi4c?, Nexus4?, Galaxy S7390, Lenovo A369i
-- cm11 - Galaxy S2/S3, mi4c?, Nexus4/5/10?, Galaxy S7390, Lenovo A369i
-- cm12 - Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i
-- cm13 - Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i
-- cm14 - Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i (will not be on cm)
-- LinageOS+ - Galaxy S2/S3, mi4c, Nexus4/5/10?, redmi note 9 pro
-The list will probably be replenished as I own devices. Devices for which I have already released a port and sold them, the firmware will not be updated. I want to myself and most likely I will buy a line of nexus smartphones and will mainly do this mod on them.
-
 | CM version     | Device        |
 | -------------- | ------------- |
 | cm6 and below  | no information yet                                               |
 | cyanogenmod 7  | so far only Galaxy S2, but I have a little problem with it       |
 | cyanogenmod 8  | I would like to, but there is no information yet                 |
 | cyanogenmod 9  | Galaxy S2/S3.                                                    |
-| cyanogenmod 10 | Galaxy S2/S3, mi4c?, Nexus4?, Galaxy S7390, Lenovo A369i         |
-| cyanogenmod 11 | Galaxy S2/S3, mi4c?, Nexus4/5/10?, Galaxy S7390, Lenovo A369i    |
+| cyanogenmod 10 | Galaxy S2/S3, Nexus4/10, Lenovo A369i                            |
+| cyanogenmod 11 | Galaxy S2/S3, Nexus4/5/10?, Galaxy S7390, Lenovo A369i           |
 | cyanogenmod 12 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i                    |
 | cyanogenmod 13 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i                    |
 | cyanogenmod 14 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i (will not be on cm)|
@@ -108,12 +96,13 @@ The list will probably be replenished as I own devices. Devices for which I have
 - [Вопрос-Ответ](https://github.com/Russanandres/LightROM#%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81-%D0%BE%D1%82%D0%B2%D0%B5%D1%82)
 - [Таблица будущих поддерживаемых устроиств.](https://github.com/Russanandres/LightROM#%D0%B2%D1%81%D0%B5-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%81%D1%82%D0%B2%D0%B0-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5-%D0%B8%D0%BC%D0%B5%D1%8E%D1%82-%D1%88%D0%B0%D0%BD%D1%81-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-lightrom)
 ## Вес архива (*на последнее обновление readme*)
-- Lightrom - 168mb
-- Lightrom ULTRA - 162mb
+- Cyanogenmod 11 - 260мб
+- Lightrom - 167мб
+- Lightrom ULTRA - 162мб
 ### Вес папки /system в архиве
-- Cyanogenmod 11 - 380mb
-- Lightrom - 293mb
-- Lightrom ULTRA - 287mb
+- Cyanogenmod 11 - 380мб
+- Lightrom - 292мб
+- Lightrom ULTRA - 287мб
 
 Экономия около 90мб в сравнении с cm!
 ## Кому нужна эта прошивка? Она для меня?
@@ -157,8 +146,8 @@ The list will probably be replenished as I own devices. Devices for which I have
 | cyanogenmod 7  | пока что только Galaxy S2, но у меня с ним небольшие проблемы   |
 | cyanogenmod 8  | Хотелось бы, но пока нет информации.                            |
 | cyanogenmod 9  | Galaxy S2/S3.                                                   |
-| cyanogenmod 10 | Galaxy S2/S3, mi4c?, Nexus4?, Galaxy S7390, Lenovo A369i        |
-| cyanogenmod 11 | Galaxy S2/S3, mi4c?, Nexus4/5/10?, Galaxy S7390, Lenovo A369i   |
+| cyanogenmod 10 | Galaxy S2/S3, Nexus4/10, Lenovo A369i                           |
+| cyanogenmod 11 | Galaxy S2/S3, Nexus4/5/10?, Galaxy S7390, Lenovo A369i          |
 | cyanogenmod 12 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i                   |
 | cyanogenmod 13 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i                   |
 | cyanogenmod 14 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i (будет не на cm)  |
