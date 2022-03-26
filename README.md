@@ -25,8 +25,8 @@ about 90mb savings!
 ## Who needs this rom? Is it for me?
 Most likely no. For people who use youtube, twitter and so on, that is, ordinary people do not need it. If you want an iPod-like music player or just a video player. You don't like a lot of programs installed on your device or you just want multirom rom to test programs. Then it is most likely for you, but be aware that there are a lot of bugs here.
 ## When is the release?
-Honestly, I do not know. Maybe I will delete this repository. Prerelease for Nexus 5 and alpha for Nexus 4 are now ready. As soon as I understand how to properly edit the system resources of APK files on linux, I will release the first release.
-### What? Nexus 4 is being developed? How well does it work?
+The release for Nexus 5 hammerhead version 1.0 is already out. For the Nexus 4, nothing really has been done. For S2, development has just started based on cm9 (cm7 on my phone just gives a bootloop)
+### How well does the release work for the Nexus 4?
 What? Nexus 4 is still there (contrary to the text below)? How well does it work?
 Yes, development for the Nexus 4 has begun (although I haven't even released it for the nexus 5). Since the CM firmware is different, some settings from the nexus 4 are missing in the nexus 5. There are fewer bugs, except for the fatal one. The back button doesn't work.
 ## Supported devices right now.
@@ -108,8 +108,8 @@ The list will probably be replenished as I own devices. Devices for which I have
 ## Кому нужна эта прошивка? Она для меня?
 Скорее всего нет. Для людей кто пользуется youtube, twitter и тд, тоесть обычных людей она не нужна. Если вы хотите музыкальный плеер на подобии iPod или только видеопроигрыватель. Вы не любите много программ установленных на ваше устроиство или просто хотите прошивку в multirom для теста программ. Тогда оно скорее всего для вас, но учтите, здесь очень много багов.
 ## Когда релиз?
-Честно, я не знаю. Возможно я удалю этот репозиторий. Сейчас готов пререлиз для Nexus 5 и альфа для Nexus 4. Как только я пойму как правильно редактировать системные ресурсы APK файлов на linux, я выпущу первый релиз.
-## Что? Nexus 4 всё же разрабатывается? Как хорошо оно работает?
+Релиз для Nexus 5 hammerhead версии 1.0 уже есть. Для Nexus 4 толком ничего не сделанно. Для S2 разработка только начата на основе cm9 (cm7 на моём телефоне просто выдаёт бутлуп)
+## Как хорошо релиз работает для Nexus 4?
 Да, разработка для Nexus 4 начата (хоть я и не выпустил даже для nexus 5). Так как CM прошивки разные, то некоторые настройки из nexus 4 отсутствуют в nexus 5. Багов меньше, за исключением фатального. Кнопка назад не работает.
 ## Поддерживаемые сейчас устроиства.
 В настоящее время **поддерживается только Nexus 5 *Hammerhead* и Nexus 4 *Mako* (n4 в разработке)!!!!! АВТОР НЕ НЕСЕТ ОТВЕТСТВЕННОСТИ ЗА ПОВРЕЖДЕННОЕ УСТРОЙСТВО!!!!** (хотя при установке его вряд ли можно окирпичить, но поверьте, лучше и не пробовать)
