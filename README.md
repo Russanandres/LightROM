@@ -41,6 +41,7 @@ Oh yeah. Bugs here are just a huge amount. Imagine all the people on earth (abou
 3. Notification curtain - some shortcuts lead to system inoperability and reinstallation is required
 4. Settings - Some items are throwing an error. (I know the fix, but let the rom be 1MB smaller)
 5. Wallpapers - they are, but they write an error during installation. To fix it yourself, install the APK from cm11
+6. Battery percentage - Something strange. Different from the real values.
 #### LightromULTRA bugs:
 1. All 😅
 ## Q&A
@@ -134,6 +135,7 @@ The list will probably be replenished as I own devices. Devices for which I have
 3. Панель быстрых настроек - Некоторые пункты ведут к необратимому брику системы и потребуется переустановка прошивки.
 4. Настройки - Некоторые пунты выдают ошибку. (Я знаю исправление, но прошивка будет чуть больше весить)
 5. Обои - Живые обои выдают ошибку. Нужно самостоятельно ставить APK фаил с обоями.
+6. Проценты батареи - Отличаются от реальных значений. Зачастую сильно.
 #### Баги LightromULTRA:
 1. Всё 😅
 ## Вопрос-Ответ
