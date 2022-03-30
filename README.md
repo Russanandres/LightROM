@@ -80,8 +80,8 @@ Oh yeah. Bugs here are just a huge amount. Imagine all the people on earth (abou
 | cyanogenmod 11 | Galaxy S2/S3, Nexus4/5/10?, Galaxy S7390, Lenovo A369i           | Nexus 4, Nexus 5 |
 | cyanogenmod 12 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i                    | No               |
 | cyanogenmod 13 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i                    | No               |
-| cyanogenmod 14 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i (will not be on cm)| No               |
-| LinageOS 14+   | Galaxy S2/S3, mi4c, Nexus4/5/10?, redmi note 9 pro               | No               |
+| cyanogenmod 14 | Galaxy S2/S3, mi4c, Nexus4/5/10                                  | No               |
+| LinageOS 14+   | Galaxy S2/S3, mi4c, Nexus4/5/10?, redmi note 9 pro, Lenovo A369i | No               |
 
 The list will probably be replenished as I own devices. Devices for which I have already released a port and sold them, the firmware will not be updated. I want to myself and most likely I will buy a line of nexus smartphones and will mainly do this mod on them.
 
@@ -164,18 +164,18 @@ The list will probably be replenished as I own devices. Devices for which I have
 - A - А также версия Debug (LightROM Debug) наполненная разными функциями отладки. Она будет выложенна в открытый доступ конечно же.
 
 ## Все устроиства которые имеют шанс получить LightROM:
-| Версия CM      | Устроиство                                                      | В разработке?    |
-| -------------- | -------------                                                   | -                |
-| cm6 и ниже     | пока нет информации                                             | Нет              |
-| cyanogenmod 7  | пока что только Galaxy S2, но у меня с ним небольшие проблемы   | Скоро            | 
-| cyanogenmod 8  | Хотелось бы, но пока нет информации.                            | Нет              |
-| cyanogenmod 9  | Galaxy S2/S3.                                                   | Galaxy S2        |
-| cyanogenmod 10 | Galaxy S2/S3, Nexus4/10, Lenovo A369i                           | Нет              |
-| cyanogenmod 11 | Galaxy S2/S3, Nexus4/5/10?, Galaxy S7390, Lenovo A369i          | Nexus 4, Nexus 5 |
-| cyanogenmod 12 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i                   | Нет              |
-| cyanogenmod 13 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i                   | Нет              |
-| cyanogenmod 14 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i (будет не на cm)  | Нет              |
-| LinageOS 14+   | Galaxy S2/S3, mi4c, Nexus4/5/10?, redmi note 9 pro              | Нет              |
+| Версия CM      | Устроиство                                                       | В разработке?    |
+| -------------- | ---------------------------------------------------------------- | -                |
+| cm6 и ниже     | пока нет информации                                              | Нет              |
+| cyanogenmod 7  | пока что только Galaxy S2, но у меня с ним небольшие проблемы    | Скоро            | 
+| cyanogenmod 8  | Хотелось бы, но пока нет информации.                             | Нет              |
+| cyanogenmod 9  | Galaxy S2/S3.                                                    | Galaxy S2        |
+| cyanogenmod 10 | Galaxy S2/S3, Nexus4/10, Lenovo A369i                            | Нет              |
+| cyanogenmod 11 | Galaxy S2/S3, Nexus4/5/10?, Galaxy S7390, Lenovo A369i           | Nexus 4, Nexus 5 |
+| cyanogenmod 12 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i                    | Нет              |
+| cyanogenmod 13 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i                    | Нет              |
+| cyanogenmod 14 | Galaxy S2/S3, mi4c, Nexus4/5/10                                  | Нет              |
+| LinageOS 14+   | Galaxy S2/S3, mi4c, Nexus4/5/10?, redmi note 9 pro, Lenovo A369i | Нет              |
 
 Список возможно будет пополнятся по мере владения мной устроиств. Устроиства для которых я уже выпустил порт и продал их, прошивка обновлятся не будет.
 Я хочу сам и скорее всего буду покупать линейку сматрфонов nexus и премущественно на них буду делать этот мод, и там соответвественно будет и LinageOS и cm12/13/14+
