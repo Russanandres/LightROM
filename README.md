@@ -27,13 +27,12 @@ Most likely no. For people who use youtube, twitter and so on, that is, ordinary
 ## When is the release?
 The release for Nexus 5 hammerhead version 1.0 is already out. For the Nexus 4, nothing really has been done. For S2, development has just started based on cm9 (cm7 on my phone just gives a bootloop)
 ### How well does the release work for the Nexus 4?
-What? Nexus 4 is still there (contrary to the text below)? How well does it work?
-Yes, development for the Nexus 4 has begun (although I haven't even released it for the nexus 5). Since the CM firmware is different, some settings from the nexus 4 are missing in the nexus 5. There are fewer bugs, except for the fatal one. The back button doesn't work.
+Yes, development for the Nexus 4 has begun. Since the CM firmware is different, some settings from the nexus 4 are missing in the nexus 5. There are fewer bugs, except for the fatal one. The back button doesn't work.
 ## Supported devices right now.
 This rom at this time **support for Nexus 5 *Hammerhead* and Nexus 4 *Mako* only (n4 in development)!!!!! THE AUTHOR IS NOT RESPONSIBLE FOR A DAMAGED DEVICE!!!!** (although during installation you can hardly brick it, but believe me, it’s better not to try)
 ### Porting?
 Maybe.
-If it does, then first on nexus devices (nexus 10 and 5X (maybe)) and on Samsung devices (S2, S3, S7390). I'm not sure about others, I do it myself on my own devices.
+If it does, then first on nexus devices (nexus 10 and 9) and on Samsung devices (S2, S3, S7390, S5363). I'm not sure about others, I do it myself on my own devices.
 ## Bugs
 Oh yeah. Bugs here are just a huge amount. Imagine all the people on earth (about 8 billion, right?) and multiply by 2. That will be the total number of bugs. Jokes aside, here are the known issues:
 1. NFC - Partial work
@@ -122,12 +121,12 @@ The list will probably be replenished as I own devices. Devices for which I have
 ## Когда релиз?
 Релиз для Nexus 5 hammerhead версии 1.0 уже есть. Для Nexus 4 толком ничего не сделанно. Для S2 разработка только начата на основе cm9 (cm7 на моём телефоне просто выдаёт бутлуп)
 ## Как хорошо релиз работает для Nexus 4?
-Да, разработка для Nexus 4 начата (хоть я и не выпустил даже для nexus 5). Так как CM прошивки разные, то некоторые настройки из nexus 4 отсутствуют в nexus 5. Багов меньше, за исключением фатального. Кнопка назад не работает.
+Да, разработка для Nexus 4 начата. Так как CM прошивки разные, то некоторые настройки из nexus 4 отсутствуют в nexus 5. Багов меньше, за исключением фатального. Кнопка назад не работает.
 ## Поддерживаемые сейчас устроиства.
 В настоящее время **поддерживается только Nexus 5 *Hammerhead* и Nexus 4 *Mako* (n4 в разработке)!!!!! АВТОР НЕ НЕСЕТ ОТВЕТСТВЕННОСТИ ЗА ПОВРЕЖДЕННОЕ УСТРОЙСТВО!!!!** (хотя при установке его вряд ли можно окирпичить, но поверьте, лучше и не пробовать)
 ### Портирование?
 Возможно.
-Если это и будет, то первые устроиства будут из линейки Nexus (nexus 10 и 5X (возможно)) и устроиства Samsung (S2, S3, S7390). Я не уверен насчёт остальных устроиств, так как я всё делаю на своих личных и вашего телефона у меня может просто не быть.
+Если это и будет, то первые устроиства будут из линейки Nexus (nexus 10 и 9) и устроиства Samsung (S2, S3, S7390, S5363). Я не уверен насчёт остальных устроиств, так как я всё делаю на своих личных и вашего телефона у меня может просто не быть.
 ## Баги, проблемы, недочёты.
 О, да. Багов тут просто огромное количество. Представьте всех людей на земле (около 8 миллиардов, верно?) и умножьте на 2. Это будет общее количество проблем. Отбросив шутки, вот известные проблемы:
 1. NFC - Время от времени
