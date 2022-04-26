@@ -36,13 +36,17 @@ Maybe.
 If it does, then first on nexus devices (nexus 10 and 9) and on Samsung devices (S2, S3, S7390, S5363). I'm not sure about others, I do it myself on my own devices.
 ## Apps built-in
 ### LightROM
-Launcher: Trebuchet (search new)
-Settings: Standart
-Music player: Appolo (HiKi player testing)
-Titanium backup (Lite later)
+| Apps  | Apps too                                |
+| ---------- | ---------------------------------- |
+| Launcher        | Trebuchet (search new)        |
+| Settings        | Standart                      |
+| Music player    | ВAppolo (HiKi player testing) |
+| Titanium backup | (Lite mod later)              |
 ### ULTRA
-Launcher: Trebuchet (search new)
-Settings: Standart
+| Apps  | Apps too                                |
+| ---------- | ---------------------------------- |
+| Launcher        | Trebuchet (search new)        |
+| Settings        | Standart                      |
 ## Bugs
 Oh yeah. Bugs here are just a huge amount. Imagine all the people on earth (about 8 billion, right?) and multiply by 2. That will be the total number of bugs. Jokes aside, here are the known issues:
 1. NFC - Partial work
@@ -146,10 +150,6 @@ The list will probably be replenished as I own devices. Devices for which I have
 | Настройки         | Стандартные                       |
 | Музыкальный плеер | ВAppolo (Тестируется HiKi player) |
 | Titanium backup   | (Лайт мод позже)                  |
-Лаунчер: Trebuchet (ищу замену)
-Настройки: Стандартные
-Музыкальный плеер: Appolo (Тестируется HiKi player)
-Titanium backup (Лайт мод позже)
 ### ULTRA
 | Программы  | Программы                                |
 | ---------- | ---------------------------------------- |
