@@ -33,6 +33,15 @@ This rom at this time **support for Nexus 5 *Hammerhead* and Nexus 4 *Mako* only
 ### Porting?
 Maybe.
 If it does, then first on nexus devices (nexus 10 and 9) and on Samsung devices (S2, S3, S7390, S5363). I'm not sure about others, I do it myself on my own devices.
+## Apps built-in
+### LightROM
+Launcher: Trebuchet (search new)
+Settings: Standart
+Music player: Appolo (HiKi player testing)
+Titanium backup (Lite later)
+### ULTRA
+Launcher: Trebuchet (search new)
+Settings: Standart
 ## Bugs
 Oh yeah. Bugs here are just a huge amount. Imagine all the people on earth (about 8 billion, right?) and multiply by 2. That will be the total number of bugs. Jokes aside, here are the known issues:
 1. NFC - Partial work
@@ -127,6 +136,15 @@ The list will probably be replenished as I own devices. Devices for which I have
 ### Портирование?
 Возможно.
 Если это и будет, то первые устроиства будут из линейки Nexus (nexus 10 и 9) и устроиства Samsung (S2, S3, S7390, S5363). Я не уверен насчёт остальных устроиств, так как я всё делаю на своих личных и вашего телефона у меня может просто не быть.
+## Встроенные программы
+### LightROM
+Лаунчер: Trebuchet (ищу замену)
+Настройки: Стандартные
+Музыкальный плеер: Appolo (Тестируется HiKi player)
+Titanium backup (Лайт мод позже)
+### ULTRA
+Лаунчер: Trebuchet (ищу замену)
+Настройки: Стандартные
 ## Баги, проблемы, недочёты.
 О, да. Багов тут просто огромное количество. Представьте всех людей на земле (около 8 миллиардов, верно?) и умножьте на 2. Это будет общее количество проблем. Отбросив шутки, вот известные проблемы:
 1. NFC - Время от времени
