@@ -9,6 +9,7 @@ Completely stripped down ROM based on CyanogenMod 11. Almost all applications ar
 - [Who needs it?](https://github.com/Russanandres/LightROM#who-needs-this-firmware-is-it-for-me)
 - [Then is the release?](https://github.com/Russanandres/LightROM#when-is-the-release)
 - [Supported devices right now.](https://github.com/Russanandres/LightROM#supported-devices-right-now)
+- [Apps](https://github.com/Russanandres/LightROM#apps-built-in)
 - [Bugs](https://github.com/Russanandres/LightROM#bugs)
 - [Q&A](https://github.com/Russanandres/LightROM#qa)
 - [Other phones table](https://github.com/Russanandres/LightROM#all-devices-that-have-a-chance-to-get-lightrom)
@@ -112,6 +113,7 @@ The list will probably be replenished as I own devices. Devices for which I have
 - [Кому это надо?](https://github.com/Russanandres/LightROM#%D0%BA%D0%BE%D0%BC%D1%83-%D0%BD%D1%83%D0%B6%D0%BD%D0%B0-%D1%8D%D1%82%D0%B0-%D0%BF%D1%80%D0%BE%D1%88%D0%B8%D0%B2%D0%BA%D0%B0-%D0%BE%D0%BD%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B5%D0%BD%D1%8F)
 - [Когда релиз?](https://github.com/Russanandres/LightROM#%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0-%D1%80%D0%B5%D0%BB%D0%B8%D0%B7)
 - [Поддерживаемые сейчас устроиства](https://github.com/Russanandres/LightROM#%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%D1%8B%D0%B5-%D1%81%D0%B5%D0%B9%D1%87%D0%B0%D1%81-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%81%D1%82%D0%B2%D0%B0)
+- [Программы](https://github.com/Russanandres/LightROM#%D0%B2%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B)
 - [Баги, дюпы, глитчи](https://github.com/Russanandres/LightROM#%D0%B1%D0%B0%D0%B3%D0%B8-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B-%D0%BD%D0%B5%D0%B4%D0%BE%D1%87%D1%91%D1%82%D1%8B)
 - [Вопрос-Ответ](https://github.com/Russanandres/LightROM#%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81-%D0%BE%D1%82%D0%B2%D0%B5%D1%82)
 - [Таблица будущих поддерживаемых устроиств.](https://github.com/Russanandres/LightROM#%D0%B2%D1%81%D0%B5-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%81%D1%82%D0%B2%D0%B0-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5-%D0%B8%D0%BC%D0%B5%D1%8E%D1%82-%D1%88%D0%B0%D0%BD%D1%81-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-lightrom)
@@ -138,13 +140,21 @@ The list will probably be replenished as I own devices. Devices for which I have
 Если это и будет, то первые устроиства будут из линейки Nexus (nexus 10 и 9) и устроиства Samsung (S2, S3, S7390, S5363). Я не уверен насчёт остальных устроиств, так как я всё делаю на своих личных и вашего телефона у меня может просто не быть.
 ## Встроенные программы
 ### LightROM
+| Программы  | Программы                                |
+| ---------- | ---------------------------------------- |
+| Лаунчер           | Trebuchet (ищу замену)            |
+| Настройки         | Стандартные                       |
+| Музыкальный плеер | ВAppolo (Тестируется HiKi player) |
+| Titanium backup   | (Лайт мод позже)                  |
 Лаунчер: Trebuchet (ищу замену)
 Настройки: Стандартные
 Музыкальный плеер: Appolo (Тестируется HiKi player)
 Titanium backup (Лайт мод позже)
 ### ULTRA
-Лаунчер: Trebuchet (ищу замену)
-Настройки: Стандартные
+| Программы  | Программы                                |
+| ---------- | ---------------------------------------- |
+| Лаунчер           | Trebuchet (ищу замену)            |
+| Настройки         | Стандартные                       |
 ## Баги, проблемы, недочёты.
 О, да. Багов тут просто огромное количество. Представьте всех людей на земле (около 8 миллиардов, верно?) и умножьте на 2. Это будет общее количество проблем. Отбросив шутки, вот известные проблемы:
 1. NFC - Время от времени
