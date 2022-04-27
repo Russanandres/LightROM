@@ -124,12 +124,12 @@ The list will probably be replenished as I own devices. Devices for which I have
 - [Таблица будущих поддерживаемых устроиств.](https://github.com/Russanandres/LightROM#%D0%B2%D1%81%D0%B5-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%81%D1%82%D0%B2%D0%B0-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5-%D0%B8%D0%BC%D0%B5%D1%8E%D1%82-%D1%88%D0%B0%D0%BD%D1%81-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-lightrom)
 ## Вес архива (*на последнее обновление readme*)
 - Cyanogenmod 11 - 260мб
-- Lightrom - 167мб
-- Lightrom ULTRA - 162мб
+- Lightrom - 163мб
+- Lightrom ULTRA - 161мб
 ### Вес папки /system в архиве
 - Cyanogenmod 11 - 380мб
-- Lightrom - 292мб
-- Lightrom ULTRA - 287мб
+- Lightrom - 288мб
+- Lightrom ULTRA - 285мб
 
 Экономия около 90мб в сравнении с cm!
 ## Кому нужна эта прошивка? Она для меня?
