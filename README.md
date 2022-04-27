@@ -22,7 +22,7 @@ Completely stripped down ROM based on CyanogenMod 11. Almost all applications ar
 - Lightrom - 288mb
 - Lightrom ULTRA - 285mb
 
-about 90mb savings!
+about 100mb savings!
 ## Who needs this rom? Is it for me?
 Most likely no. For people who use youtube, twitter and so on, that is, ordinary people do not need it. If you want an iPod-like music player or just a video player. You don't like a lot of programs installed on your device or you just want multirom rom to test programs. Then it is most likely for you, but be aware that there are a lot of bugs here.
 ## When is the release?
@@ -42,6 +42,7 @@ If it does, then first on nexus devices (nexus 10 and 9) and on Samsung devices 
 | Settings        | Standart      |
 | Music player    | HiKi player   |
 | Titanium backup | Lite 8.4.0.2  |
+| Terminal        | 1.0.62        |
 ### ULTRA
 | Apps     |               |
 | -------- | ------------- |
@@ -150,6 +151,7 @@ The list will probably be replenished as I own devices. Devices for which I have
 | Настройки         | Стандартные   |
 | Музыкальный плеер | HiKi player   |
 | Titanium backup   | Lite 8.4.0.2  |
+| Терминал          | 1.0.62        |
 ### ULTRA
 | Программы |               |
 | --------- | ------------- |
