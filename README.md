@@ -4,7 +4,7 @@ I haven't developed or ported any Lightrom before. This is my own project. All m
  
 Completely stripped down ROM based on CyanogenMod 11. Almost all applications are cut out. Only the settings, music player, terminal and Titanium Backup remained. In the case of the ULTRA version - only the settings. You can install applications via ADB or terminal (not tested).
 # Table of contents:
-- [Описание на русском языке](https://github.com/Russanandres/LightROM#lightrom-1)
+- [Описание на русском языке](https://github.com/Russanandres/LightROM#lightrom-2)
 - [Weight](https://github.com/Russanandres/LightROM#zip-weight-on-last-readme-update)
 - [Who needs it?](https://github.com/Russanandres/LightROM#who-needs-this-firmware-is-it-for-me)
 - [Then is the release?](https://github.com/Russanandres/LightROM#when-is-the-release)
