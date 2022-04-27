@@ -6,7 +6,7 @@ Completely stripped down ROM based on CyanogenMod 11. Almost all applications ar
 # Table of contents:
 - [Описание на русском языке](https://github.com/Russanandres/LightROM#lightrom-2)
 - [Weight](https://github.com/Russanandres/LightROM#zip-weight-on-last-readme-update)
-- [Who needs it?](https://github.com/Russanandres/LightROM#who-needs-this-firmware-is-it-for-me)
+- [Who needs it?](https://github.com/Russanandres/LightROM#who-needs-this-rom-is-it-for-me)
 - [Then is the release?](https://github.com/Russanandres/LightROM#when-is-the-release)
 - [Supported devices right now.](https://github.com/Russanandres/LightROM#supported-devices-right-now)
 - [Apps](https://github.com/Russanandres/LightROM#apps-built-in)
