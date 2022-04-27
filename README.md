@@ -2,7 +2,7 @@
 # Only for Nexus 5 *hammerhead* and Nexus 4 *mako*!!
 I haven't developed or ported any Lightrom before. This is my own project. All matches (including in the rom name) are random. Don't confuse with Adobe Lightroom! **You are on the page with Android AOSP/CM firmware/rom for phones!**
  
-Completely stripped down ROM based on CyanogenMod 11. Almost all applications are cut out. Only the settings, music player, terminal and Titanium Backup remained. In the case of the ULTRA version - only the settings. You can install applications via ADB or terminal (not tested).
+Completely stripped down ROM based on CyanogenMod 11. Almost all applications are cut out. Only the settings, music player, terminal and Titanium Backup remained. In the case of the ULTRA version - only the settings. You can install applications via ADB.
 # Table of contents:
 - [Описание на русском языке](https://github.com/Russanandres/LightROM#lightrom-2)
 - [Weight](https://github.com/Russanandres/LightROM#zip-weight-on-last-readme-update)
@@ -111,7 +111,7 @@ The list will probably be replenished as I own devices. Devices for which I have
 # Только для Nexus 5 *hammerhead* и Nexus 4 *mako*!!
 **Я не разрабатывал и не портировал любой Lightrom раньше. Это мой собственный проект. Все совпадения (в том числе в названии) случайны. Не путайте с Adobe Lightroom! Вы находитесь на странице с Android AOSP/CM прошивкой для телефонов!** 
 
-Полностью урезанный ROM на базе CyanogenMod 11. Вырезаны почти все приложения. Остались только настройки, музыкальный плеер, терминал и Titanium Backup. В случае версии ULTRA - только настройки. Можно устанавливать приложения через ADB или терминал (не проверял). 
+Полностью урезанный ROM на базе CyanogenMod 11. Вырезаны почти все приложения. Остались только настройки, музыкальный плеер, терминал и Titanium Backup. В случае версии ULTRA - только настройки. Можно устанавливать приложения через ADB. 
 # Оглавление:
 - [English readme](https://github.com/Russanandres/LightROM#lightrom)
 - [Вес](https://github.com/Russanandres/LightROM#%D0%B2%D0%B5%D1%81-%D0%B0%D1%80%D1%85%D0%B8%D0%B2%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B5%D0%B5-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-readme)
