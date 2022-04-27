@@ -15,12 +15,12 @@ Completely stripped down ROM based on CyanogenMod 11. Almost all applications ar
 - [Other phones table](https://github.com/Russanandres/LightROM#all-devices-that-have-a-chance-to-get-lightrom)
 ## Zip weight (*on last readme update*)
 - Cyanogenmod 11 - 260mb
-- Lightrom - 167mb
-- Lightrom ULTRA - 162mb
+- Lightrom - 163mb
+- Lightrom ULTRA - 161mb
 ### Weight /system folder in zip
 - Cyanogenmod 11 - 380mb
-- Lightrom - 292mb
-- Lightrom ULTRA - 287mb
+- Lightrom - 288mb
+- Lightrom ULTRA - 285mb
 
 about 90mb savings!
 ## Who needs this rom? Is it for me?
@@ -36,17 +36,17 @@ Maybe.
 If it does, then first on nexus devices (nexus 10 and 9) and on Samsung devices (S2, S3, S7390, S5363). I'm not sure about others, I do it myself on my own devices.
 ## Apps built-in
 ### LightROM
-| Apps       | Apps too                          |
-| ---------- | --------------------------------- |
-| Launcher        | Trebuchet (search new)       |
-| Settings        | Standart                     |
-| Music player    | Appolo (HiKi player testing) |
-| Titanium backup | (Lite mod later)             |
+| Apps       |                    |
+| ---------- | ------------------ |
+| Launcher        | Text launcher |
+| Settings        | Standart      |
+| Music player    | HiKi player   |
+| Titanium backup | Lite 8.4.0.2  |
 ### ULTRA
-| Apps     | Apps too               |
-| -------- | ---------------------- |
-| Launcher | Trebuchet (search new) |
-| Settings | Standart               |
+| Apps     |               |
+| -------- | ------------- |
+| Launcher | Text launcher |
+| Settings | Standart      |
 ## Bugs
 Oh yeah. Bugs here are just a huge amount. Imagine all the people on earth (about 8 billion, right?) and multiply by 2. That will be the total number of bugs. Jokes aside, here are the known issues:
 1. NFC - Partial work
@@ -144,17 +144,17 @@ The list will probably be replenished as I own devices. Devices for which I have
 Если это и будет, то первые устроиства будут из линейки Nexus (nexus 10 и 9) и устроиства Samsung (S2, S3, S7390, S5363). Я не уверен насчёт остальных устроиств, так как я всё делаю на своих личных и вашего телефона у меня может просто не быть.
 ## Встроенные программы
 ### LightROM
-| Программы  | Программы                               |
-| ---------- | --------------------------------------- |
-| Лаунчер           | Trebuchet (ищу замену)           |
-| Настройки         | Стандартные                      |
-| Музыкальный плеер | Appolo (Тестируется HiKi player) |
-| Titanium backup   | (Лайт мод позже)                 |
+| Программы  |                      |
+| ---------- | -------------------- |
+| Лаунчер           | Text launcher |
+| Настройки         | Стандартные   |
+| Музыкальный плеер | HiKi player   |
+| Titanium backup   | Lite 8.4.0.2  |
 ### ULTRA
-| Программы | Программы              |
-| --------- | ---------------------- |
-| Лаунчер   | Trebuchet (ищу замену) |
-| Настройки | Стандартные            |
+| Программы |               |
+| --------- | ------------- |
+| Лаунчер   | Text launcher |
+| Настройки | Стандартные   |
 ## Баги, проблемы, недочёты.
 О, да. Багов тут просто огромное количество. Представьте всех людей на земле (около 8 миллиардов, верно?) и умножьте на 2. Это будет общее количество проблем. Отбросив шутки, вот известные проблемы:
 1. NFC - Время от времени
