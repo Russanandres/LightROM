@@ -92,10 +92,10 @@ Oh yeah. Bugs here are just a huge amount. Imagine all the people on earth (abou
 | cyanogenmod 9  | Galaxy S2/S3.                                                      | Galaxy S2 (Freezed)|
 | cyanogenmod 10 | Galaxy S2/S3, Nexus4/10, Lenovo A369i                              | No                 |
 | cyanogenmod 11 | Galaxy S2/S3, Nexus4/5/10?, Galaxy S7390, Lenovo A369i             | Nexus 4, Nexus 5   |
-| cyanogenmod 12 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i                      | No                 |
+| cyanogenmod 12 | Galaxy S2/S3, Nexus4/5/10, Lenovo A369i                      | No                 |
 | cyanogenmod 13 | Galaxy S2/S3, mi4c, Nexus4/5/9/10, Lenovo A369i                    | No                 |
 | cyanogenmod 14 | Galaxy S2/S3, mi4c, Nexus4/5/9/10                                  | No                 |
-| LinageOS 14+   | Galaxy S2/S3, mi4c, Nexus4/5/9/10?, redmi note 9 pro, Lenovo A369i | No                 |
+| LinageOS 14+   | Galaxy S2/S3, mi4c, Nexus4/5/5X/9/10?, redmi note 9 pro, Lenovo A369i | No                 |
 
 The list will probably be replenished as I own devices. Devices for which I have already released a port and sold them, the firmware will not be updated. I want to myself and most likely I will buy a line of nexus smartphones and will mainly do this mod on them.
 
@@ -201,10 +201,10 @@ The list will probably be replenished as I own devices. Devices for which I have
 | cyanogenmod 9  | Galaxy S2/S3.                                                     | Galaxy S2 (пока нет)|
 | cyanogenmod 10 | Galaxy S2/S3, Nexus4/10, Lenovo A369i                             | Нет                 |
 | cyanogenmod 11 | Galaxy S2/S3, Nexus4/5/10?, Galaxy S7390, Lenovo A369i            | Nexus 4, Nexus 5    |
-| cyanogenmod 12 | Galaxy S2/S3, mi4c, Nexus4/5/10, Lenovo A369i                     | Нет                 |
+| cyanogenmod 12 | Galaxy S2/S3, Nexus4/5/10, Lenovo A369i                     | Нет                 |
 | cyanogenmod 13 | Galaxy S2/S3, mi4c, Nexus4/5/9/10, Lenovo A369i                   | Нет                 |
 | cyanogenmod 14 | Galaxy S2/S3, mi4c, Nexus4/5/9/10                                 | Нет                 |
-| LinageOS 14+   | Galaxy S2/S3, mi4c, Nexus4/5/9/10, redmi note 9 pro, Lenovo A369i | Нет                 |
+| LinageOS 14+   | Galaxy S2/S3, mi4c, Nexus4/5/5X/9/10, redmi note 9 pro, Lenovo A369i | Нет                 |
 
 Список возможно будет пополнятся по мере владения мной устроиств. Устроиства для которых я уже выпустил порт и продал их, прошивка обновлятся не будет.
 Я хочу сам и скорее всего буду покупать линейку сматрфонов nexus и премущественно на них буду делать этот мод, и там соответвественно будет и LinageOS и cm12/13/14+
